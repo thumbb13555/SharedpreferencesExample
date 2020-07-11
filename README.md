@@ -1,0 +1,2 @@
+# SharedpreferencesExample
+示範使用Sharedpreferences
